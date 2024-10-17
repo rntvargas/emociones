@@ -1,8 +1,9 @@
-streamlit
-opencv-python-headless
-numpy
-pillow
+streamlit==1.25.0
+opencv-python-headless==4.8.0.76
+numpy==1.23.5
+pillow==9.5.0
 deepface==0.0.79
-tensorflow==2.12.0
+tensorflow-cpu==2.12.0
 keras==2.12.0
-gdown
+gdown==4.7.1
+
